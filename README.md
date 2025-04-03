@@ -2,9 +2,10 @@
 
 ## 🛠 Tech Stack
 - 💻 C++ | Python | Solidity  
-- 🌐 Django | Flask | FastAPI  
+- 🌐 Django | FastAPI  
 - 🔗 Blockchain | Web3  
-- 📊 Data Science | Machine Learning  
+- 📊 Data Science | Machine Learning
+- React|JS 
 
 ## 🚀 Interests
 - 🤖 Artificial Intelligence & Machine Learning  
