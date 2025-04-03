@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Tejas Rastogi! 👋
 
-<!--
-**tejasrastogileet/tejasrastogileet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- 💻 C++ | Python | Solidity  
+- 🌐 Django | Flask | FastAPI  
+- 🔗 Blockchain | Web3  
+- 📊 Data Science | Machine Learning  
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📈 Financial Modeling & Quantitative Analysis  
+- 🔗 Blockchain & Smart Contracts  
+- 💡 Open Source Contributions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejasrastogieet&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasrastogieet&layout=compact&theme=tokyonight)
+
