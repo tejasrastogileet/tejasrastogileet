@@ -142,7 +142,7 @@ const tejas = {
 - Implemented real-time synchronization with WebSockets
 - Optimized database queries for 10x performance improvement
 
-### **Quant Consultant (Upcoming)** @ WorldQuant Brain
+### ** Research Quant Consultant (Upcoming)** @ WorldQuant Brain
 **Feb 2026**
 - Quantitative analysis & financial modeling
 - Algorithm development for trading strategies
