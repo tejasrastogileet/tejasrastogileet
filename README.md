@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Tejas Rastogi!
 
-> Full-Stack Developer | AI/ML Enthusiast | Competitive Programmer | Chess.com Knight Master Builder
+> Full-Stack Developer | AI/ML Enthusiast | Competitive Programmer | Chess.com Knight Arena Builder
 
 ```
 const tejas = {
