@@ -50,7 +50,7 @@ const tejas = {
 
 ## ⭐ Featured Projects
 
-### 🎮 **Knight Master** - Real-time Multiplayer Chess Platform
+### 🎮 **Knight Arena** - Real-time Multiplayer Chess Platform
 > Play chess online with AI analysis, video chat, and live commentary
 
 **Tech Stack:** Next.js • Socket.io • WebRTC • Stockfish • JWT Authentication
@@ -101,7 +101,7 @@ const tejas = {
 
 ---
 
-### 🎓 **Olive** - Full-Stack EdTech Platform
+### 🎓 **LearnStack** - Full-Stack EdTech Platform
 > Online learning platform with subscriptions, quizzes, and certificates
 
 **Tech Stack:** Next.js • Razorpay • PostgreSQL • RBAC • WebHooks
@@ -114,7 +114,7 @@ const tejas = {
 - 🏅 Digital certificates
 - 🪝 Webhook-based payment processing
 
-[📂 Repository](https://github.com/tejasrastogileet/olive-edtech)
+
 
 ---
 
