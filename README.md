@@ -63,6 +63,12 @@
 
 ![GitHub Contributions](https://ghchart.rshah.org/tejasrastogileet)
 
+
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasrastogileet&theme=github-compact&hide_border=true)
+
+
 ## 🐍 Contribution Snake
 
 ![Contribution Snake](https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/output/github-contribution-grid-snake-dark.svg)
