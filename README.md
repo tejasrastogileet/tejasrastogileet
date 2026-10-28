@@ -64,9 +64,11 @@
 ![GitHub Contributions](https://ghchart.rshah.org/tejasrastogileet)
 
 
+
 ## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasrastogileet&theme=github-compact&hide_border=true)
+[![Tejas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasrastogileet&theme=tokyo-night&hide_border=true)](https://github.com/tejasrastogileet)
+
 
 
 ## 🐍 Contribution Snake
