@@ -26,23 +26,15 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasrastogileet&show_icons=true&theme=tokyonight&hide_border=false" alt="Tejas's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tejasrastogileet&theme=tokyonight&hide_border=false" alt="Tejas's GitHub Streak" />
-</p>
-
----
+![GitHub Contributions](https://ghchart.rshah.org/tejasrastogileet)
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/output/github-contribution-grid-snake-dark.svg" alt="Tejas's GitHub Contribution Snake" />
-</p>
+![Contribution Snake](https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
