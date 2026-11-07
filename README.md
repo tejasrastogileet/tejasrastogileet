@@ -1,9 +1,8 @@
 <div align="center">
 
 <!-- Lofi Aesthetic Dev Banner -->
-<img src="https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/main/assets/banner_at_top.gif" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'" width="100%" alt="Developer Banner" />
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Banner" />
 </div>
 
 <br/><br/>
