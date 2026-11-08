@@ -2,9 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="150" align="right" alt="avatar">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=I+am+Tejas+Rastogi" alt="I am Tejas Rastogi">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=800&height=80&lines=I+am+Tejas+Rastogi" alt="I am Tejas Rastogi">
 
 </div>
+
+<br clear="all">
 
 <br clear="all">
 <picture>
