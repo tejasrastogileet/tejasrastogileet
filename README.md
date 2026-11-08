@@ -266,7 +266,7 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="100%" alt="Footer GIF" />
+<img src="https://private-user-images.githubusercontent.com/74038190/240885386-87360948-7b92-4852-91f7-ff62ddb8fcd4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQxNzI0MDMsIm5iZiI6MTc5NDE3MjEwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzODYtODczNjA5NDgtN2I5Mi00ODUyLTkxZjctZmY2MmRkYjhmY2Q0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA4VDIxMDgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiYmVlMmI1YmI5NjQ1Yzk4Zjk0YTU4ZDQ2NGQ0ZWUwNDUwYjI4MTFmOTY1ODA5MzA4MjQwZTU1Y2RhODdmZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ULw-uXtNzG34x0nlIdsQCyFHeEWBUjY_y4Fp7HUsjOY" width="100%" alt="Footer GIF" />
 
 
 </div>
