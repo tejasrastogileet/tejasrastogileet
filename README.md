@@ -266,7 +266,7 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="100%" alt="Footer GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="100%" alt="Footer GIF" />
 
 
 </div>
