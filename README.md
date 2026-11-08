@@ -2,35 +2,45 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=059669&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba" alt="What I do" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba#gh-dark-mode-only" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=059669&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba#gh-light-mode-only" alt="What I do" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24292F&center=true&vcenter=true&width=760&height=60&lines=Let+me+tell+you+a+fun+fact...">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vcenter=true&width=760&height=60&lines=Let+me+tell+you+a+fun+fact..." alt="Let me tell you a fun fact" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vcenter=true&width=760&height=60&lines=Let+me+tell+you+a+fun+fact...#gh-dark-mode-only" alt="Let me tell you a fun fact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24292F&center=true&vcenter=true&width=760&height=60&lines=Let+me+tell+you+a+fun+fact...#gh-light-mode-only" alt="Let me tell you a fun fact" />
 
 <img src="https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif" width="100%" alt="Everything's a copy of a copy of a copy" />
 
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring_Boot_%7C_FastAPI-10B981?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-LLM_Agents_%26_RAG-EC4899?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack-React_%7C_Node_%7C_Laravel-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="36" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="36" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="36" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="36" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="36" alt="Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="36" alt="PostgreSQL" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tejasrastogi456@gmail.com"><img src="https://img.shields.io/badge/Email-tejasrastogi456@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tejasrastogileet&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="36" alt="Redis" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="36" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="36" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="36" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36" alt="Docker" />
+  <img src="https://img.shields.io/badge/LLM_%26_RAG-EC4899?style=for-the-badge" height="36" alt="LLM and RAG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:tejasrastogi456@gmail.com"><img src="https://img.shields.io/badge/Email-tejasrastogi456@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tejasrastogileet&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" height="32" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-## 👋 Intro
+<h1 align="center">🎬 It's Intro Time</h1>
 
 ### I build backend systems that stay correct under load, and AI systems that can be measured, not just demoed.
 
