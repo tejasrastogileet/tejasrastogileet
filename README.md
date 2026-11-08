@@ -46,16 +46,16 @@
 
 <h1 align="center">🎬 It's Intro Time</h1>
 
-### I build backend systems that stay correct under load, and AI systems that can be measured, not just demoed.
+### I'm a developer who builds backend systems that stay correct under load, and AI systems that can be measured, not just demoed.
 
-I'm a pre-final year Computer Science student at **KIET, Ghaziabad (2024 – 2028)**, and I treat my college as a starting point, not a ceiling. What I can build, test and prove matters more to me than the name on a certificate, so I spend my time shipping real systems and measuring them honestly.
+I like building things that actually work, then testing them until I can prove it. Most of my projects come with tests, benchmarks and honest numbers, not just a demo video.
 
-### What that looks like in practice
+### What I build
 
 - **Backend that doesn't break:** a core banking engine with deadlock-safe atomic transfers and 61 tests, plus a Kafka + Eureka microservices trading platform with JWT auth, wallets, orders and portfolios.
 - **AI with numbers behind it:** an autonomous strategy agent scored on a 39-case harness (**92%** pass on gpt-oss-120b vs **28%** on a local 7B model), and a hybrid-RAG workspace with BM25 + dense search, reranking and RAGAS quality checks.
 - **Performance I can show:** a Numba-compiled backtester that runs **25,000+ parameter combinations in under a second**, backed by 104 tests.
-- **Research discipline:** **140+ alpha signals** at WorldQuant Brain, validated out-of-sample with walk-forward testing.
+- **Quant research:** **140+ alpha signals** built at WorldQuant BRAIN, validated out-of-sample with walk-forward testing.
 - **Full-stack range:** real-time apps in React, Node, Socket.IO and Laravel.
 
 ### What I care about
