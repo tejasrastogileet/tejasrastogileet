@@ -259,15 +259,14 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
     </td>
   </tr>
 </table>
-
 <div align="center">
 
 <a href="mailto:tejasrastogi456@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<br><br>
+<h3>👋 Thanks for stopping by! Let's build something great together.</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="90%" alt="demo">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="100%" alt="bye">
 
 </div>
