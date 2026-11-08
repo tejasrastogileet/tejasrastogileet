@@ -1,4 +1,14 @@
-<h1 align="center">Hey, I'm Tejas Rastogi 👋</h1>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <h1>Hey, I'm Tejas Rastogi 👋</h1>
+      <h3>Turning ideas into reliable systems.</h3>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="220" alt="avatar">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
