@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="180" alt="avatar" align="right">
 
-<h1>Hey, I'm Tejas Rastogi 👋</h1>
-<h3>Turning ideas into reliable systems.</h3>
+<h1>I am Tejas Rastogi</h1>
 
 </div>
 
