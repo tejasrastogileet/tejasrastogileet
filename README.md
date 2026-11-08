@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=720&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba" alt="What I do" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=059669&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba" alt="What I do" />
+</picture>
 
-<br/>
-
-<p align="center"><b>Let me tell you a fun fact 👇</b></p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24292F&center=true&vcenter=true&width=760&height=60&lines=Let+me+tell+you+a+fun+fact...">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vcenter=true&width=760&height=60&lines=Let+me+tell+you+a+fun+fact..." alt="Let me tell you a fun fact" />
+</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif" width="100%" alt="Everything's a copy of a copy of a copy" />
-
-<br/><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Spring_Boot_%7C_FastAPI-10B981?style=for-the-badge&logoColor=white" />
@@ -32,9 +32,23 @@
 
 ## 👋 Intro
 
-Computer Science undergrad at **KIET (2024 – 2028)** who likes building things that actually work under pressure: services that stay correct under concurrency, AI pipelines you can measure, and interfaces that feel instant.
+### I build backend systems that stay correct under load, and AI systems that can be measured, not just demoed.
 
-I move comfortably between **Java + Spring Boot** microservices, **Python + FastAPI** AI backends, and **React / Node / Laravel** full-stack apps. I care about tests, clean architecture, and numbers I can defend.
+I'm a pre-final year Computer Science student at **KIET, Ghaziabad (2024 – 2028)**, and I treat my college as a starting point, not a ceiling. What I can build, test and prove matters more to me than the name on a certificate, so I spend my time shipping real systems and measuring them honestly.
+
+### What that looks like in practice
+
+- **Backend that doesn't break:** a core banking engine with deadlock-safe atomic transfers and 61 tests, plus a Kafka + Eureka microservices trading platform with JWT auth, wallets, orders and portfolios.
+- **AI with numbers behind it:** an autonomous strategy agent scored on a 39-case harness (**92%** pass on gpt-oss-120b vs **28%** on a local 7B model), and a hybrid-RAG workspace with BM25 + dense search, reranking and RAGAS quality checks.
+- **Performance I can show:** a Numba-compiled backtester that runs **25,000+ parameter combinations in under a second**, backed by 104 tests.
+- **Research discipline:** **140+ alpha signals** at WorldQuant Brain, validated out-of-sample with walk-forward testing.
+- **Full-stack range:** real-time apps in React, Node, Socket.IO and Laravel.
+
+### What I care about
+
+Correctness under concurrency, clean architecture, tests that actually fail when something breaks, and numbers I can defend. I also compete: **Top 45** at Hack the Throne 2026 and Round 2 at the ForkIT Challenge (IIIT Delhi).
+
+If a problem needs to be reliable, fast and measurable, that's the kind I like working on.
 
 ---
 
@@ -234,12 +248,9 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 
 <div align="center">
 
-<br/>
-
 <a href="mailto:tejasrastogi456@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="100%" alt="Footer GIF" />
 
