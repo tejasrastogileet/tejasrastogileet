@@ -194,16 +194,24 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasrastogileet&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" />
+### 🔭 What I'm Up To
 
-<br/><br/>
-
-<!-- Contribution snake: works only after the snake GitHub Action runs on the profile repo -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/output/github-contribution-grid-snake-dark.svg" width="98%" />
-</picture>
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🔨 Building</h4>
+      Microservices with Spring Boot, Kafka and Eureka, plus RAG and agent pipelines in Python.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>📚 Exploring</h4>
+      RAG evaluation (RAGAS), agent tool-calling, MCP, and concurrency-safe database design.
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🎯 Goal</h4>
+      Ship small, tested, well-documented projects and grow with every commit.
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
