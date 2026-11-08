@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif" width="100%" alt="Banner GIF" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Tejas%20Rastogi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20AI%20Systems%20%C2%B7%20Full-Stack&descSize=20&descAlignY=60" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
