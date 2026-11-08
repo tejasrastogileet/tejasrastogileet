@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="180" alt="avatar" align="right">
-
-<h1>I am Tejas Rastogi</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=I+am+Tejas+Rastogi" alt="I am Tejas Rastogi">
 
 </div>
-
-<br clear="all">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=059669&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=760&height=50&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba" alt="What I do" />
