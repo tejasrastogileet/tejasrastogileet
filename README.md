@@ -265,8 +265,14 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h3>👋 Thanks for stopping by! Let's build something great together.</h3>
+<br><br>
+
+<h2>👋 Thanks for stopping by! Let's build something great together.</h2>
+
+<br>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="100%" alt="bye">
+
+<br><br>
 
 </div>
