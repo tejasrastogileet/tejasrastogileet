@@ -8,11 +8,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6EE7B7&center=true&vcenter=true&width=720&lines=Let+me+tell+you+a+fun+fact...;Everything%27s+a+copy+of+a+copy+of+a+copy%2C;so+I+try+to+build+my+own+thing+every+time." alt="Fun fact" />
-</a>
-
-<br/><br/>
+<p align="center"><b>Let me tell you a fun fact 👇</b></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif" width="100%" alt="Everything's a copy of a copy of a copy" />
 
