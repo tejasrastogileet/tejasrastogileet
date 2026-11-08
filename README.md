@@ -137,7 +137,6 @@ I design and build distributed software systems with an emphasis on **correctnes
 <br/><br/>
 
 <!-- Aesthetic Bottom Divider Mascot -->
-<img src="https://raw.githubusercontent.com/tejasrastogileet/tejasrastogileet/main/assets/coding_bear.gif" onerror="this.src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'" width="320px" />
 
 <br/>
 <sub>Crafted with engineering discipline · Scalable systems · High concurrency</sub>
