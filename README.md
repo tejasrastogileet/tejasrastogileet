@@ -1,12 +1,20 @@
+<h1 align="center">Hey, I'm Tejas Rastogi 👋</h1>
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif" width="100%" alt="Banner GIF" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=720&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba" alt="What I do" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Tejas%20Rastogi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20AI%20Systems%20%C2%B7%20Full-Stack&descSize=20&descAlignY=60" width="100%" alt="Header" />
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vcenter=true&width=720&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6EE7B7&center=true&vcenter=true&width=720&lines=Let+me+tell+you+a+fun+fact...;Everything%27s+a+copy+of+a+copy+of+a+copy%2C;so+I+try+to+build+my+own+thing+every+time." alt="Fun fact" />
 </a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif" width="100%" alt="Everything's a copy of a copy of a copy" />
 
 <br/><br/>
 
@@ -24,15 +32,15 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 👋 Intro
 
-Hey, I'm **Tejas**, a Computer Science undergrad at **KIET (2024 – 2028)** who likes building things that actually work under pressure: services that stay correct under concurrency, AI pipelines you can measure, and interfaces that feel instant.
+Computer Science undergrad at **KIET (2024 – 2028)** who likes building things that actually work under pressure: services that stay correct under concurrency, AI pipelines you can measure, and interfaces that feel instant.
 
 I move comfortably between **Java + Spring Boot** microservices, **Python + FastAPI** AI backends, and **React / Node / Laravel** full-stack apps. I care about tests, clean architecture, and numbers I can defend.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 🧭 Overview
 
@@ -59,7 +67,7 @@ I move comfortably between **Java + Spring Boot** microservices, **Python + Fast
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 🛠 Skills
 
@@ -83,7 +91,7 @@ I move comfortably between **Java + Spring Boot** microservices, **Python + Fast
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 📂 Featured Projects
 
@@ -167,7 +175,7 @@ I move comfortably between **Java + Spring Boot** microservices, **Python + Fast
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 💼 Experience & Achievements
 
@@ -177,7 +185,7 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 🏆 **Hack the Throne 2026**: Top 45 teams, national-level hackathon
 🏆 **ForkIT Challenge (IIIT Delhi)**: Qualified for Round 2
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
 ## 📊 GitHub Stats
 
@@ -235,6 +243,9 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
 <a href="mailto:tejasrastogi456@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tejas-rastogi-292b81231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer" />
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="100%" alt="Footer GIF" />
+
 
 </div>
