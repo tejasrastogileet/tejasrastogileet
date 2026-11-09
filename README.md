@@ -12,10 +12,9 @@
 </picture>
 
 <br>
-
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24292F&center=true&vCenter=true&width=760&height=40&lines=Let+me+tell+you+a+fun+fact...">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=40&lines=Let+me+tell+you+a+fun+fact..." alt="Let me tell you a fun fact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&text=Let%20me%20tell%20you%20a%20fun%20fact...&fontSize=36&fontColor=24292F&fontAlign=50&fontAlignY=50&height=90&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Let%20me%20tell%20you%20a%20fun%20fact...&fontSize=36&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&height=90&animation=fadeIn" alt="Let me tell you a fun fact" />
 </picture>
 
 </div>
