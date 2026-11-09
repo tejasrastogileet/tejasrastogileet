@@ -242,7 +242,7 @@ Researched and backtested 140+ alpha signals, targeted Sharpe > 1.6 with turnove
   <img src="profile-3d-city.svg" alt="3D contribution city" width="100%" />
 </div>
 
-### 🚀 Contribution Space Shooter
+###  Contribution Space Shooter
 
 <!-- TODO: after the space-shooter workflow runs, set the file name/branch below to match its output -->
 <div align="center">
