@@ -14,6 +14,7 @@
 <br>
 
 <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=24292F&center=true&vCenter=true&width=760&height=40&lines=Let+me+tell+you+a+fun+fact...">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=40&lines=Let+me+tell+you+a+fun+fact..." alt="Let me tell you a fun fact" />
 </picture>
 
