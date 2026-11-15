@@ -1,8 +1,7 @@
 <div align="center">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="200" alt="profile banner" />
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="25%" alt="profile banner" />
 <br clear="right" />
-<br>
+
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=059669&center=true&vCenter=true&width=760&height=55&lines=Building+microservices+with+Spring+Boot+%26+Kafka;Shipping+RAG+pipelines+%26+autonomous+AI+agents;Turning+ideas+into+real-time+full-stack+apps;Backtesting+alpha+signals+with+Python+%26+Numba">
