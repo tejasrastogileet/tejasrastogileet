@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="250" alt="profile banner" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="220" alt="profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=800&height=75&lines=I+am+Tejas+Rastogi" alt="I am Tejas Rastogi">
 
